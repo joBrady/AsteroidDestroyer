@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe" -G Ninja -S I:\engr2730fall2022\jbrady3\homework\hw7 -B I:\engr2730fall2022\jbrady3\homework\hw7\cmake-build-debug
+-- Found SFML 2.5.1 in C:/Program Files/SFML-2.5.1/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: I:/engr2730fall2022/jbrady3/homework/hw7/cmake-build-debug
